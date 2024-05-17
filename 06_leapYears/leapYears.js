@@ -8,7 +8,7 @@ const leapYears = function(year) {
     return false; 
   } else {
     return true; 
-  }
+  } 
 };
 
 // Do not edit below this line
